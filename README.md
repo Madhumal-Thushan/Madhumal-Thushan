@@ -1,6 +1,6 @@
 ### Hi there, I'm Thushan 👋
 
-[![Twitter Follow]](https://twitter.com/intent/follow?screen_name=bantaa99)
+[![Twitter Follow]](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)(https://twitter.com/intent/follow?screen_name=bantaa99)
 
 
 - 🌱 I’m currently learning everything 🤣
