@@ -26,7 +26,7 @@
 
 - 🙋‍♂️ Undergraduate Student
 - 👉 Learning Everything
-- 💻 Flutter Developer
+- 💻 JAva Developer 
 - 🥾 Traveller
   </div>
 
