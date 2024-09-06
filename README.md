@@ -37,5 +37,3 @@
 
 <summary >📝 My GitHub Stats</summary>
 <br>
-
-[![Thushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madhumal-Thushan)](https://github.com/anuraghazra/github-readme-stats)
