@@ -78,7 +78,7 @@ Some areas I'm exploring:
 I'm always interested in connecting with developers, learning from the
 community, and collaborating on meaningful projects.
 
--   LinkedIn: [Add your LinkedIn profile](YOUR_LINKEDIN_URL)
+-   LinkedIn: [Add your LinkedIn profile](https://www.linkedin.com/in/madhumal-thushan/)
 -   Email: <YOUR_EMAIL>
 
 ------------------------------------------------------------------------
